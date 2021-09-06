@@ -275,6 +275,9 @@
          left: .5em;
      }
 
+    #hamburger:hover {
+        color: var(--secondary-color);
+    }
      #hamburger span {
          display: block;
          position: relative;
