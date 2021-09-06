@@ -122,7 +122,9 @@
  /* Home */
 
 #home-image {
-    min-width: 500px;
+    max-width: 300px;
+
+    margin: auto;
 }
  /* About Us  */
  .content-img-container {
